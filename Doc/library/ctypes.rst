@@ -683,8 +683,8 @@ Instances are created in the usual way, by calling the class::
    for pt in arr:
        print(pt.x, pt.y)
 
-The above code print a series of ``0 0`` lines, because the array contents is
-initialized to zeros.
+The above code prints a series of ``0 0`` lines, because the array contents are
+initialized as zeros.
 
 Initializers of the correct type can also be specified::
 
